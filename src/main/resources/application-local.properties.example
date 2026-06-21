@@ -1,0 +1,4 @@
+news.api.key=COLOQUE_SUA_CHAVE_AQUI
+news.api.base.url=https://newsapi.org/v2
+news.api.default.country=us
+news.api.url.content.top.headlines=/top-headlines
